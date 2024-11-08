@@ -26,7 +26,7 @@ app.listen(PORT, () => {
 1. Run `docker run -it `.
 1. You should see the text "Hello, World!"
 
-.greenbox
+
 
 ## <span class="heading">Github workflow for Build and Deploy to AWS ECR</span>
 
@@ -44,19 +44,4 @@ app.listen(PORT, () => {
 * Docker documentation homepage: https://docs.docker.com 
 * AWS ECR documentation homepage: https://docs.aws.amazon.com/ecr/
 
-<style>
-.greenbox{
-    background:green;
-    color:white;
-    padding: 5px;
-    border-radius: 5px;
-    margin-bottom:5px;
-    display:inline-block;
-}
-li{
-    margin-bottom:5px;
-}
-.heading{
-    color:blue;
-}
-</style>
+ 
