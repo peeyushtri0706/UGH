@@ -21,10 +21,10 @@ app.listen(PORT, () => {
 
 ## <span class="heading">Building the Docker container</span>
 
-1. Install [Docker](https://www.docker.com/) and make sure it's on your `PATH`.
-1. Run `docker build --file Dockerfile -t hello-world-example .`.
-1. Run `docker run -it `.
-1. You should see the text "Hello, World!"
+✅ Install [Docker](https://www.docker.com/) and make sure it's on your `PATH`.</br>
+✅ Run `docker build --file Dockerfile -t hello-world-example .`.</br>
+✅ Run `docker run -it `.</br>
+✅ You should see the text "Hello, World!"</br>
 
 
 
